@@ -17,6 +17,9 @@ The repository is intentionally limited to the Model C workflow. Historical deve
 - `input/16B_optimised_full_gene_model3_interaction_outputs.zip`  
   Fixed optimised Model 3B interaction-model outputs required by Model C selection, validation, and prediction.
 
+- `input/16_model3_tensor_product_outputs.zip`  
+  Fixed Model 3 reference archive required by Notebook 32 for the three-model pathogen-out comparison.
+
 ### Notebooks
 
 Run/order of the Model C workflow:
